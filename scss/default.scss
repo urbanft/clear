@@ -3,7 +3,7 @@
  * @author  Ariel Saldana / http://ariel.io
  */
 
-$background-color : $emerald;
+$background-color : #f3f3f3;
 
 $highlight-text-color : null;
 $highlight-background-color : null;
@@ -16,6 +16,8 @@ $h1-small-font-size : null;
 $h1-large-font-size : null;
 $h1-margins : null;
 $h1-text-align : null;
+$h1-line-height : null;
+$h1-letter-spacing: null;
 
 $h2-font-size : null;
 $h2-font-weight : null;
@@ -23,6 +25,8 @@ $h2-small-font-size : null;
 $h2-large-font-size : null;
 $h2-margins : null;
 $h2-text-align : null;
+$h2-line-height : null;
+$h2-letter-spacing: null;
 
 $h3-font-size : null;
 $h3-font-weight : null;
@@ -30,6 +34,8 @@ $h3-small-font-size : null;
 $h3-large-font-size : null;
 $h3-margins : null;
 $h3-text-align : null;
+$h3-line-height : null;
+$h3-letter-spacing: null;
 
 $h4-font-size : null;
 $h4-font-weight : null;
@@ -37,6 +43,8 @@ $h4-small-font-size : null;
 $h4-large-font-size : null;
 $h4-margins : null;
 $h4-text-align : null;
+$h4-line-height : inherit;
+$h4-letter-spacing: inherit;
 
 $h5-font-size : null;
 $h5-font-weight : null;
@@ -44,10 +52,12 @@ $h5-small-font-size : null;
 $h5-large-font-size : null;
 $h5-margins : null;
 $h5-text-align : null;
+$h5-line-height : inherit;
+$h5-letter-spacing: inherit;
 
 $h1-font-color : null;
 $h2-font-color : null;
-$h3-font-color : null;
+$h3-font-color : $bmw-dark-gray;
 $h4-font-color : null;
 $h5-font-color : null;
 
@@ -58,3 +68,5 @@ $text-small-font-size : null;
 $text-large-font-size : null;
 $text-margins : null;
 $text-text-align : null;
+$text-line-height : inherit;
+$text-letter-spacing: inherit;
